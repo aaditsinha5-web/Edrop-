@@ -1,0 +1,8 @@
+{
+  "name": "E-Drop",
+  "description": "Smart e-waste management with AI assistance for collection scheduling and recycling information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
